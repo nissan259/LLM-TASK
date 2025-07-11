@@ -1,0 +1,216 @@
+{
+  "test_execution_timestamp": "2025-07-11 15:33:36",
+  "overall_summary": {
+    "total_test_classes": 20,
+    "total_tests_run": 50,
+    "total_successes": 47,
+    "total_failures": 3,
+    "total_errors": 0,
+    "execution_time_seconds": 0.017496109008789062,
+    "success_rate_percentage": 94.0
+  },
+  "detailed_results": [
+    {
+      "class_name": "LoRA-TestLoRAConfiguration",
+      "tests_run": 3,
+      "successes": 3,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0010657310485839844,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "LoRA-TestDataProcessing",
+      "tests_run": 3,
+      "successes": 3,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "LoRA-TestModelMetrics",
+      "tests_run": 2,
+      "successes": 2,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "LoRA-TestStatisticalAnalysis",
+      "tests_run": 4,
+      "successes": 4,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.006186246871948242,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "LoRA-TestResultsAnalysis",
+      "tests_run": 2,
+      "successes": 2,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0005152225494384766,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "LoRA-TestErrorHandling",
+      "tests_run": 2,
+      "successes": -1,
+      "failures": 3,
+      "errors": 0,
+      "execution_time": 0.0015392303466796875,
+      "success_rate": -50.0,
+      "was_successful": false
+    },
+    {
+      "class_name": "MASK-TestMaskTemplates",
+      "tests_run": 3,
+      "successes": 3,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0005118846893310547,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "MASK-TestSentimentMapping",
+      "tests_run": 2,
+      "successes": 2,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "MASK-TestTextProcessing",
+      "tests_run": 3,
+      "successes": 3,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0005154609680175781,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "MASK-TestModelPredictions",
+      "tests_run": 2,
+      "successes": 2,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "MASK-TestEnsembleMethods",
+      "tests_run": 2,
+      "successes": 2,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0005085468292236328,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "Demo-TestDemoConfiguration",
+      "tests_run": 2,
+      "successes": 2,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "Demo-TestMethodsIntegration",
+      "tests_run": 2,
+      "successes": 2,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "Demo-TestUserInterface",
+      "tests_run": 2,
+      "successes": 2,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0005118846893310547,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "Demo-TestVisualization",
+      "tests_run": 2,
+      "successes": 2,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "Demo-TestRealTimePrediction",
+      "tests_run": 2,
+      "successes": 2,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0005166530609130859,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "Analysis-TestStatisticalAnalysis",
+      "tests_run": 4,
+      "successes": 4,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.004613161087036133,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "Analysis-TestMethodComparison",
+      "tests_run": 3,
+      "successes": 3,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0010120868682861328,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "Analysis-TestReportGeneration",
+      "tests_run": 3,
+      "successes": 3,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0,
+      "success_rate": 100.0,
+      "was_successful": true
+    },
+    {
+      "class_name": "Analysis-TestDataIntegrity",
+      "tests_run": 2,
+      "successes": 2,
+      "failures": 0,
+      "errors": 0,
+      "execution_time": 0.0,
+      "success_rate": 100.0,
+      "was_successful": true
+    }
+  ],
+  "quality_assessment": "✅ GOOD - טוב",
+  "academic_compliance": "FULLY_COMPLIANT"
+}
